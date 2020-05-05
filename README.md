@@ -9,7 +9,7 @@ It's an incredible story about a war against balloons. Ballons suck people's sou
 
 [Twitter's DevLog](https://twitter.com/Volorf/status/1203958100945969153)
 
-[You can download APK on your Oculus Quest to play it](Apopalypse/Apopalypse.apk)
+[Download APK for Oculus Quest](Apopalypse/Apopalypse.apk)
 
 **Tools**:
 * **Music**: Garage Band
@@ -25,7 +25,7 @@ You are a secret agent of a secret health organization. The organization made yo
 
 [Twitter's DevLog](https://twitter.com/Volorf/status/1240911612007112705)
 
-[You can download APK on your Oculus Quest to play it](PaperAgainstViruses/PaperAgainstViruses.apk)
+[Download APK for Oculus Quest](PaperAgainstViruses/PaperAgainstViruses.apk)
 
 **Tools**:
 * **Music**: Ableton Live
