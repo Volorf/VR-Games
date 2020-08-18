@@ -1,13 +1,23 @@
 # VR Games
 I'm going to make 6 VR games (prototypes) this year. 0.5 VR game a month.
 
-## 3. Five seconds
+## 3. Five seconds [VR Hamburger Consuming Simulator]
 
-Work in Progress...
+![Five Seconds](FiveSeconds/5sec.gif)
 
-VR Game inspired by "Dorohedoro" and "How I met your mom" TV shows.
+The goal is to consume hamburgers when they land on the ground before their 5 seconds timer is passed. 
+
+The VR Game is heavily inspired by "Dorohedoro" and "How I met your mother" TV shows.
 
 [DevLog](https://twitter.com/Volorf/status/1275877461222395906)
+
+[Download APK for Oculus Quest](FiveSeconds/5sec.apk)
+
+**Tools**:
+* **Music**: Beepbox
+* **3D Editor**: Blender
+* **Game Engine**: Unity 3D
+* **Platform**: Oculus Quest
 
 
 ## 2. Paper Against Viruses [VR Shooter]
